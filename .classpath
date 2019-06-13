@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_152"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/docs/json-schema-validator-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/jackson-databind-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/json-schema-validator-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/json schema validator/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/jsonpath/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/jsonpath/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/jsonpath/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/jsonpath/json-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/jsonpath/docs/json-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/jsonpath/docs/json-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/jsonpath/docs/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/jsonpath/docs/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/rest-assured-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/docs/json-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/docs/json-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/docs/rest-assured-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/docs/rest-assured-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/docs/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/docs/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/docs/xml-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/restassured/docs/xml-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/docs/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/docs/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/docs/xml-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/docs/xml-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajath/Desktop/Selenium_Mar_2019/Webservices/restassured jars/xml path/xml-path-3.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
